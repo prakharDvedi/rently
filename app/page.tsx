@@ -6,7 +6,8 @@ export default function Home() {
           Rently
         </h1>
         <p className="text-xl text-zinc-600 dark:text-zinc-400">
-          Rent your property with ease.
+          a full-stack web app for shared household management with chore
+          rotations and expense tracking.{" "}
         </p>
       </main>
     </div>
