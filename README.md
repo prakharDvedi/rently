@@ -1,6 +1,6 @@
 ## Rently
 
-Rently is a platform for renting properties. It is a full-stack application that allows users to rent properties from other users.
+Rently is a platform for renting properties. It is a full-stack application that allows users within the same household to effeciently divide tasks, take turns and split bills
 
 ## Tech Stack
 

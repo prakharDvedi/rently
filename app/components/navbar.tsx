@@ -13,11 +13,6 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link href="/listings" className="hover:text-white transition-colors">
-            Listings
-          </Link>
-        </li>
-        <li>
           <Link href="/about" className="hover:text-white transition-colors">
             About
           </Link>
